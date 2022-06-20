@@ -1,0 +1,9 @@
+{
+	"ip":"game5.falixserver.net:13408",
+	"port": "13408",
+	"name": "Itzyiro",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
